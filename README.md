@@ -30,7 +30,7 @@ No installation necessary. App is live on heroku.
 
 <a id='Usage'></a>
 
-1. Go to the app url below:
+1. Go to the following link:
    [Deployed Application](https://secret-lowlands-21898.herokuapp.com/)
 
 2. After the welcome screen, enter a note title and body text.
