@@ -39,7 +39,7 @@ No installation necessary. App is live on heroku.
 
 4. To delete an old note, click the trash can next to it in the sidebar.
 
-![Screenshot of deployed app](Assets\deployedpic.png)
+![Screenshot of deployed app](https://raw.githubusercontent.com/BraxB/note-taker/main/Assets/deployedpic.png)
 
 ## Contributing
 
